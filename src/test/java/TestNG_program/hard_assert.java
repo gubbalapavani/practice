@@ -10,5 +10,6 @@ public void TC1() {
 	String s2= "pavu";
 	Assert.assertEquals(s1,s2);
 	System.out.println("boss i am after passing TC1");
+	System.out.println("boss i am loading");
 }
 }
